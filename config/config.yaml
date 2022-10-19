@@ -1,0 +1,7 @@
+mode : small 
+traindir : 
+valdir : 
+batch_size : 
+num_workers : 
+image_size : 224
+epoch : 300
